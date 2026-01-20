@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mostafa_29_4" target="blank"><img src="https://img.shields.io/twitter/follow/mostafa_29_4?logo=twitter&style=for-the-badge" alt="mostafa_29_4" /></a> </p>
 
-- 🌱 I’m currently learning **signalR , Microservices**
+- 🌱 I’m currently learning **Microservices**
 
 - 📫 How to reach me **mostafaibrahim271120@gmail.com**
 
